@@ -8,6 +8,7 @@ Also available in [a Notion table](https://www.notion.so/bitreach/Developer-News
 
 | Name | Website | Description | Reach | Sponsor info (if known) |
 | --- | --- | --- | --- | --- |
+| TLDR Newsletters | https://tldr.tech | Byte sized news for busy techies. TLDR is 10 curated newsletters with links and TLDRs of the most interesting stories in startups, tech and programming! Newsletters focus on tech, AI, crypto, WebDev, InfoSec, DevOps, and more. | 4 million subscribers across their 10 newsletters | https://advertise.tldr.tech |
 | Scaling DevTools  | https://newsletter.scalingdevtools.com/ | A newsletter on building & growing developer tools  | 100+ |  |
 | Appcoda  | https://www.appcoda.com/ | Must-read Swift & iOS programming articles that take your skills to the next level.  | 7000 |  |
 | iOS Goodies | https://ios-goodies.com/ | weekly iOS newsletter curated by Marius Constantinescu |  |  |
@@ -44,7 +45,6 @@ Also available in [a Notion table](https://www.notion.so/bitreach/Developer-News
 | Smashing Newsletter | https://www.smashingmagazine.com/the-smashing-newsletter/ | Useful front-end & UX bits, delivered once a week. |  |  |
 | CSS-Tricks | https://css-tricks.com/subscription-options/ | CSS-Tricks is a community-based platform for web developers around the world. It’s known as the go-to site to find the latest techniques and front-end design and development. |  | https://css-tricks.com/advertising/#aa-sponsorship-opportunities |
 | Dev Tips | https://umaar.com/dev-tips/ | Developer tip, in the form of a gif, in your inbox each week |  |  |
-| TLDR Newsletter | https://tldr.tech | Byte sized news for busy techies. TLDR is a daily newsletter with links and TLDRs of the most interesting stories in startups, tech and programming! | 275,000 subscribers | $3500 ($12 CPM) per issue https://tldr.tech/sponsor |
 | Pointer.io | http://www.pointer.io | A reading club for software developers |  | http://www.pointer.io/sponsorship/ |
 | Web Developer Weekly | https://webdesignerweekly.com | A newsletter for web designers, | 2,500+ subscribers | https://webdesignerweekly.com |
 | Sidebar.io newsletter | https://sidebar.io | Sidebar has been collecting the best design links of the day since October 2012. |  | https://sidebar.io/sponsor Sponsored links cost $950 per sponsorship |
